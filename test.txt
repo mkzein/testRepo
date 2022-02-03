@@ -1,2 +1,3 @@
 master branch
 my Feature added
+add feature 2
